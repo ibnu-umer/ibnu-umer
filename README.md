@@ -30,10 +30,10 @@ AI/ML Engineer · Python Developer · Learning C++ · Web Interfaces with HTML/C
 
 ## 🚀 Projects  
 
-### 💸 [Money Tracker](https://github.com/ibnu-umer/money-tracker) · *in progress*  
-Personal finance tracker with a clean UI and basic analytics.  
-**Stack:** Django · JavaScript · HTML · CSS  
-**Scope:** Expense categories, summaries, charts, CSV import/export (MVP roadmap)  
+### 💾 [GPay Parser](https://github.com/ibnu-umer/gpay-parser) *(CLI Tool)*
+Command-line tool to extract structured transaction data from Google Pay PDF statements. Converts messy PDF exports into clean CSV/JSON for easy tracking and analysis.<br>
+**Stack**: Python · pdfplumber · pandas<br>
+**Scope**: PDF parsing, transaction normalization, CSV/JSON export, CLI packaging 
 
 ### 📝 [Bubble-sheet Evaluator](https://github.com/ibnu-umer/bubble-sheet-evaluator) *(OpenCV, offline)*  
 Automatically evaluates MCQ answer sheets with CV. Detects QR codes, reads filled bubbles, and exports CSV + annotated images.  
