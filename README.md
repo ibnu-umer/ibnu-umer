@@ -30,7 +30,7 @@ AI/ML Engineer · Python Developer · Learning C++ · Web Interfaces with HTML/C
 
 ## 🚀 Projects  
 
-### 💾 [GPay Parser](https://github.com/ibnu-umer/gpay-parser) *(CLI Tool)*
+### 💾 [Finance Parser](https://github.com/ibnu-umer/gpay-parser) *(CLI Tool)*
 Command-line tool to extract structured transaction data from Google Pay PDF statements. Converts messy PDF exports into clean CSV/JSON for easy tracking and analysis.<br>
 **Stack**: Python · pdfplumber · pandas<br>
 **Scope**: PDF parsing, transaction normalization, CSV/JSON export, CLI packaging 
