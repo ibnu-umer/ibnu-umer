@@ -31,8 +31,8 @@ AI/ML Engineer · Python Developer · Learning C++ · Web Interfaces with HTML/C
 ## 🚀 Projects  
 
 ### 💾 [Finance Parser](https://github.com/ibnu-umer/gpay-parser) *(CLI Tool)*
-Command-line tool to extract structured transaction data from Google Pay PDF statements. Converts messy PDF exports into clean CSV/JSON for easy tracking and analysis.<br>
-**Stack**: Python · pdfplumber · pandas<br>
+Command-line tool to extract structured transaction data from bank statement PDFs. Converts messy PDF exports into clean CSV/JSON for easy tracking and analysis.<br>
+**Stack**: Python · pdfplumber · pandas · camelot<br>
 **Scope**: PDF parsing, transaction normalization, CSV/JSON export, CLI packaging 
 
 ### 📝 [Bubble-sheet Evaluator](https://github.com/ibnu-umer/bubble-sheet-evaluator) *(OpenCV, offline)*  
